@@ -12,4 +12,4 @@ if (screen.width >= 500) {
   element.setAttribute("type", "text/css");
   element.setAttribute("href", url);
   document.getElementsByTagName("head")[0].appendChild(element);
-}```
+}
